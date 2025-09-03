@@ -11,8 +11,8 @@ export class UserRepository extends AbstractRepository<User> {
       {
         id: 1,
         name: 'Uedson Reis',
-        username: 'a',
-        password: '1',
+        username: 'uedsonreis',
+        password: '123456',
       } as User,
     ]);
   }
